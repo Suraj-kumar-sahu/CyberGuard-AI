@@ -1,4 +1,0 @@
-Flask==2.1.0             # Web framework for the application
-pandas==1.3.3            # Data handling for preprocessing in IDS
-joblib==1.0.1            # Saving/loading machine learning models
-scikit-learn==0.24.2     # Machine learning models for IDS and vulnerability risk prediction
